@@ -1,0 +1,2 @@
+
+select * from workspace.default.iris_test_data limit 10;
